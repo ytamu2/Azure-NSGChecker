@@ -1,0 +1,51 @@
+{
+    "Excel": {
+        "InitialDirectory": "C:\\",
+        "Sheet": [
+            {
+                "Name": "Main",
+                "Column": {
+                    "VMName": 2,
+                    "ResourceGroup": 3,
+                    "Direction": 4,
+                    "Protocol": 5,
+                    "LocalPort": 6,
+                    "RemoteIPAddress": 7,
+                    "RemotePort": 8,
+                    "Result": 9,
+                    "Max": 8
+                },
+                "Row": {
+                    "Start": 4
+                }
+            },
+            {
+                "Name": "sub",
+                "Column": {
+                    "VMName": 3,
+                    "ResourceGroup": 2,
+                    "Direction": 4,
+                    "Protocol": 5,
+                    "LocalPort": 6,
+                    "RemoteIPAddress": 7,
+                    "RemotePort": 8,
+                    "Result": 9,
+                    "Max": 8
+                },
+                "Row": {
+                    "Start": 4
+                }
+            }
+        ]
+    },
+    "Azure": {
+        "SubscriptionID": "",
+        "NetworkWatcher": {
+            "ResourceGroup": "NetworkWatcherRG",
+            "Name": "NetworkWatcher_japaneast"
+        }
+    },
+    "Output": {
+        "Directory": "C:\\out"
+    }
+}
