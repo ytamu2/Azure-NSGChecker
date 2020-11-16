@@ -12,7 +12,6 @@
                     "LocalPort": 6,
                     "RemoteIPAddress": 7,
                     "RemotePort": 8,
-                    "Result": 9,
                     "Max": 8
                 },
                 "Row": {
@@ -29,7 +28,6 @@
                     "LocalPort": 6,
                     "RemoteIPAddress": 7,
                     "RemotePort": 8,
-                    "Result": 9,
                     "Max": 8
                 },
                 "Row": {
