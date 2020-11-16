@@ -1,5 +1,5 @@
 # Azure-NSGChecker
-**編集中です**  
+  
 # 概要
 Excelのシートを読込み、1行ずつNetwork WatcherのIPフローでNSGの通信チェックを行います。  
 PowerShell 7で動作します。
