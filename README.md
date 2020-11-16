@@ -25,4 +25,5 @@ PowerShell 7で動作します。
     ```
 2. `AzureNSGCheck.ps1`を実行します。
 3. ダイアログが表示されるので、読込むエクセルファイルを選択します。
+    <img src="https://github.com/ytamu2/Azure-NSGChecker/blob/images/images/opnefiledialog.png" width=90%>
 4. `NSGChackConfigjson`内のOutput->Directoryに指定したディレクトリに通信結果がcsvファイルで出力されます。
