@@ -28,4 +28,4 @@ PowerShell 7で動作します。
 3. ダイアログが表示されるので、読込むエクセルファイルを選択します。
     <img src="https://github.com/ytamu2/Azure-NSGChecker/blob/images/images/opnefiledialog.png" width=90%>
 4. `NSGChackConfigjson`内のOutput->Directoryに指定したディレクトリに通信結果がcsvファイルで出力されます。
-    <img src="https://github.com/ytamu2/Azure-NSGChecker/blob/images/images/json-outputdirecroty.png" width=80%>
+    <img src="https://github.com/ytamu2/Azure-NSGChecker/blob/images/images/json-outputdirecroty.png" width=60%>
